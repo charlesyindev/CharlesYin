@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BURN-E
+- 👋 Hi, I’m Charles Yin
 - 👀 I’m a Python developer
 - 🌱 I’m currently learning everything.
 
